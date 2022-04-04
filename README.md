@@ -12,5 +12,5 @@ https://public.tableau.com/app/profile/ryan6992/viz/Citibike_Tableau_Story/CitiB
 ## Summary
 This findings in this module are as follows:
 - Tableau is a cool visualization tool in which previous work cannot be saved unless a license is purchased... so what's the point?
-- The modules are inconsistent and have not been reviewed or purged of errors recently
+- The modules are inconsistent and have not been reviewed or purged of errors recently.
 - This course was not worth the money I paid to take it when most of this information is free to learn online in other ways. 
